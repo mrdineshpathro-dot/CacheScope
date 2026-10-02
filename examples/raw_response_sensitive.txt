@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 01 Oct 2025 12:00:00 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 182
+Cache-Control: public, max-age=600
+Server: nginx/1.24.0
+Vary: Accept-Encoding
+Set-Cookie: session_id=abc123def456; Path=/; HttpOnly
+ETag: "a1b2c3d4"
+
+<html><body><h1>My Account</h1><p>Welcome back, Jane. Your account number is 00981234.</p></body></html>

@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Date: Wed, 01 Oct 2025 12:05:00 GMT
+Content-Type: application/json
+Cache-Control: private, no-store
+Pragma: no-cache
+Server: nginx/1.24.0
+Set-Cookie: auth_token=xyz789; Path=/; Secure; HttpOnly; SameSite=Strict

@@ -1,0 +1,17 @@
+{
+  "url": "https://example.com/dashboard",
+  "final_url": "https://example.com/dashboard",
+  "status_code": 200,
+  "http_version": "HTTP/1.1",
+  "reason": "OK",
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "Cache-Control": "public, s-maxage=3600, max-age=600",
+    "Vary": "Accept-Encoding",
+    "Set-Cookie": "session=deadbeef; Path=/; HttpOnly",
+    "Server": "Apache/2.4",
+    "CDN-Cache-Control": "max-age=7200"
+  },
+  "body": "<html><body>Dashboard - Welcome back! Your profile and settings are available here.</body></html>",
+  "response_time_seconds": 0.31
+}

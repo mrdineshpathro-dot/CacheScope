@@ -1,0 +1,4 @@
+# One authorized target URL per line. Lines starting with '#' are ignored.
+# Replace these with URLs you own or are explicitly authorized to test.
+https://example.com/
+https://example.com/account
